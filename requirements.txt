@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+accelerate
+evaluate
+rouge_score
+jiwer
+openai-whisper
+soundfile
